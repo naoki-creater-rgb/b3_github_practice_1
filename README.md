@@ -5,13 +5,13 @@ B3_github_practice_1
 P講習Git/Github練習用のプロジェクト
 
 ## 特徴
-練習用
+pythonで"Hello World!"を出力する
 
 ## 動作環境
-未定
+python
 
 ## インストール方法
-未定
+pullする
 
 ## 使い方
-未定
+python test-script.py
